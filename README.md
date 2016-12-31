@@ -1,4 +1,4 @@
-# Ansible Role: Nexcess SCL Yum Repo
+# Ansible Role: Nexcess ELx Package Repo
 
 Installs Necxess' repo for RHEL/CentOS.
 
