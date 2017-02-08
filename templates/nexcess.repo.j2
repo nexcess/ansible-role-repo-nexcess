@@ -1,7 +1,7 @@
 # {{ ansible_managed }}
 [nexcess]
 name=Nexcess Packages for CentOS $releasever - $basearch
-baseurl=https://packages.us-midwest-1.nexcess.net/production/el/$releasever/$basearch/
+baseurl=https://packages.us-midwest-1.nexcess.net/public/production/el/$releasever/$basearch/
 gpgkey={{ nexcess_repo_gpg_key_url }}
 gpgcheck={{ nexcess_repo_gpg_check }}
 enabled={{ nexcess_repo_enabled }}
