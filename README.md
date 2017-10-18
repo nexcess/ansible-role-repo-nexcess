@@ -1,6 +1,6 @@
 # Ansible Role: Nexcess ELx Package Repo
 
-Installs Necxess' repo for RHEL/CentOS.
+Installs Necxess' private repo for RHEL/CentOS.
 
 ## Requirements
 
