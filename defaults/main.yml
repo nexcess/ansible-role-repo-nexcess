@@ -3,6 +3,6 @@
 nex_zone: "us-midwest-1"
 
 nexcess_repo_file: "/etc/yum.repos.d/nexcess.repo"
-nexcess_repo_gpg_key_url: "https://packages.us-midwest-1.nexcess.net/RPM-GPG-KEY-NEXCESS"
+nexcess_repo_gpg_key_url: "https://imirror.us-midwest-1.nexcess.net/nexcess/RPM-GPG-KEY-NEXCESS"
 nexcess_repo_gpg_check: "1"
 nexcess_repo_enabled: "1"
